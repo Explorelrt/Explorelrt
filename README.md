@@ -1,5 +1,6 @@
 # Hello, I'm BIPIN 
 <a href="https://www.linkedin.com/in/bipinbudhathoki/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://explorelrt.com/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 I am a network technician, experienced in solving complex and real world problems. 
 
