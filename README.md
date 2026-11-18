@@ -5,18 +5,18 @@
 I am a network technician, experienced in solving complex and real world problems. 
 
 ## Objective
-I am dedicated to learn further about networking and advance myself doing related projects. 
+My journey in technology has helped me to develop curiosity in networking. I am dedicated to learn further about networking and advance myself doing related projects. 
 
 ## Projects
-- <a href="https://github.com">Network Support and Security</a>
+- [Implementing AAA Authentication and Network Services](https://github.com)
 
 ## Certifications
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BIPINBUDHATHOKI-8638/DC42794FE6C2D83B?sharingId=718D6E70BA286B39">
-  <img src="https://img.shields.io/badge/-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
 <a href="https://www.credly.com/badges/67f4af86-29d2-4b1f-939e-69e701d49dc3/public_url">
-  <img src="https://img.shields.io/badge/-Azure_AI_Fundamentals_(AI--900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
 
