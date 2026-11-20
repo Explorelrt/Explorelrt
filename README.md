@@ -8,7 +8,7 @@ I am a network technician, experienced in solving complex and real world problem
 My journey in technology has helped me to develop curiosity in networking. I am dedicated to learn further about networking and advance myself doing related projects. 
 
 ## Projects
-- [Implementing AAA Authentication and Network Services](https://github.com)
+- [Implementing AAA Authentication and Network Services](https://github.com/Explorelrt/Configure-Access-Control/blob/main/README.md)
 
 ## Certifications
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/BIPINBUDHATHOKI-8638/DC42794FE6C2D83B?sharingId=718D6E70BA286B39">
